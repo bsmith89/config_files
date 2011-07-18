@@ -1,0 +1,14 @@
+A set of config files for linux systems
+
+I want to be able to quickly place them on any system and expect all
+of my default settings to just work.  Currently supported tools:
+
+Login shells
+    .profile
+Bourne again shell (bash)
+    .bashrc
+    .bash_aliases
+Vi Modified (vim)
+    .vimrc
+GNU Screen (screen)
+    .screenrc
