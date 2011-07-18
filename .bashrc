@@ -104,7 +104,8 @@ fi
 
 # Additional PATH variables:
 export PATH="$PATH:$HOME/bin"
-export PATH="$PATH:$HOME/Dropbox/bin"
+export PATH="$PATH:$HOME/Dropbox/bin" # My dropbox binaries
+#+ Careful! Keep them small and univerally compatible.
 #export PATH="$PATH:<whatever-you-want>"
 
 # Local Bash settings:

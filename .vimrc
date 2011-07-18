@@ -1,4 +1,4 @@
-" Comments here "
+" Comments here
 set nocompatible
 set autoindent
 set smartindent
