@@ -12,3 +12,8 @@ Vi Modified (vim)
     .vimrc
 GNU Screen (screen)
     .screenrc
+Git (git)
+    .gitconfig (global config)
+
+Can use the following command to quickly move all of these files to ~:
+cp --backup=t -t ~ ~/Projects/config_files/files/.*
