@@ -12,4 +12,5 @@ alias dropbox="$HOME/.dropbox-dist/dropboxd &" # do I really need this
 alias cp="cp -i"
 alias mv="mv -i"
 alias rm="rm -i"
+alias rmv="rm -fr"
 alias psu="ps -u $USER"
